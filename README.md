@@ -5,6 +5,7 @@
 - :briefcase: Working as a Solution Consultant in a telco company
 - :book: Currently learning Swift to build awesome iOS app
 - :dart: 2022 Goal - Aimed to build at least 3 interactive iOS apps
+- :dancers: Looking for iOS enthusiast to collaborate with 
 - :sparkles: Fun fact: I love food :pizza:, and love playing Classical Guitar 🎶
 
 ## Connect with me
