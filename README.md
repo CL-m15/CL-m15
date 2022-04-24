@@ -1,4 +1,5 @@
-### Hi guys! I'm Chen Le 😎
+<img src="/assets/ProfileHeader.png" width="120%">
+
 
 ## I'm a Consultant, Developer, Teacher and Learner!
 - :briefcase: Working as a Solution Consultant in a telco company
